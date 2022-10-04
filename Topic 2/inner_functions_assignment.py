@@ -48,6 +48,7 @@ def measurements(a_list):
     final_result = perimeter(a_list) + area(b_list)
     return final_result
 
+
 if __name__ == '__main__':
     rectangle = [2.1, 3.4]
     result = measurements(rectangle)
